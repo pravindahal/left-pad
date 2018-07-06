@@ -1,6 +1,6 @@
 {
-  "name": "left-pad",
-  "version": "1.3.0",
+  "name": "left-pad-es6",
+  "version": "0.0.1",
   "description": "String left pad",
   "main": "index.js",
   "types": "index.d.ts",
